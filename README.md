@@ -1,4 +1,4 @@
-# PROJECTS
+# MY PROJECTS
 Projects related to ETL process with visuaizations
 
 ![Data Pipeline Architecture](Data%20Pipeline%20Architecture.png)
@@ -12,7 +12,7 @@ Projects related to ETL process with visuaizations
 - 📓 **Jupyter Notebooks (EDA)**  
   Used for data cleaning, exploratory data analysis, and initial insights generation.
 
-- 🐍 **Python – Web-Based Dashboard (Streamlit)**  
+- 🐍 **Python – Web-Based Dashboards (Streamlit)**  
   <a href="https://share.streamlit.io/?utm_source=streamlit&utm_medium=referral&utm_campaign=main&utm_content=-ss-streamlit-io-topright" target="_blank">
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
   </a>
